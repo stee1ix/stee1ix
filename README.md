@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Currently working on React Native📱<br>📚 Learning Software Engineering to its core<br>💬 Ask me about code, design and product development <br>⚡ Love football ⚽️
+👨🏻‍💻 Currently working on React Native📱<br>📚 Learning Software Engineering to its core<br>💬 Love to talk about code, design and product development and football⚽️ <br>
 
 
 ## 🌐 Socials:
