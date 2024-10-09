@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Building intuitive mobile experiences. 📱<br>📚 Constantly diving into the core of software engineering.<br>💬 Always up for discussing code, design, and product development.
 
-## 🌐 Find Me Online:
+# 🌐 Find Me Online:
 
 [![Google Play](https://img.shields.io/badge/Google_Play-76A143?logo=google-play&logoColor=white&style=flat-square)](https://play.google.com/store/apps/dev?id=5442613636313083954)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@stee1ix) 
